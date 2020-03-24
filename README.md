@@ -12,3 +12,5 @@ https://kaynalem.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Katelyn Lopes
+
+# Run Buddy Inc
