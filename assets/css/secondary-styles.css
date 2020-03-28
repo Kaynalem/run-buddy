@@ -1,8 +1,15 @@
 .hero {
-    background-position: bottom;
+
     height: auto;
     text-align: center;
     margin-bottom: 40px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
 }
 .page-title {
     color: #fce138;
